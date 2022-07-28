@@ -4,6 +4,10 @@ In this repo, we are learning the basics of ruby language, this file is acting a
 
 # Change log
 
+# 1.2.0
+
+- Intro to hashmaps
+
 # 1.1.0
 
 - Intro to arrays
