@@ -4,6 +4,10 @@ In this repo, we are learning the basics of ruby language, this file is acting a
 
 # Change log
 
+# 1.7.1
+
+- Including modules to classes and use their fundtions directly
+
 # 1.7.0
 
 - Get introduced to module and password hashing
