@@ -4,6 +4,10 @@ In this repo, we are learning the basics of ruby language, this file is acting a
 
 # Change log
 
+# 1.4.0
+
+- Solve kaperkar's number problem from rubymonk site
+
 # 1.3.0
 
 - Create an authenticator program, to match the username and the password added from the user as an input.
