@@ -4,6 +4,10 @@ In this repo, we are learning the basics of ruby language, this file is acting a
 
 # Change log
 
+# 1.6.0
+
+- OOP in ruby language
+
 # 1.5.0
 
 - Add dial book problem
